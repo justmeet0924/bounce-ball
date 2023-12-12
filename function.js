@@ -1,3 +1,5 @@
+
+//this function set objects specific speed.
 function effect(array){
 	
 	array.forEach(obj =>{
