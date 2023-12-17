@@ -4,8 +4,8 @@ class BounceBall {
     this.x = 100+width/2 + width*random()/2;
     this.y = height*random()/8+height/8;
     this.r = random([10,20,30]);
-		this.w = this.r*2;
-		this.h = this.r*2;
+    this.w = this.r*2;
+    this.h = this.r*2;
     this.vx = random();
     this.vy = random();
     this.fx = 0;
