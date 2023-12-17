@@ -15,8 +15,8 @@ class BounceBall {
     this.your_color = [250,0,0];
     this.color = [0, 0, 0,100];
     this.m = m;
-		this.l0 = this.r;
-		this.g = g;
+    this.l0 = this.r;
+    this.g = g;
   }
   
   init(){
